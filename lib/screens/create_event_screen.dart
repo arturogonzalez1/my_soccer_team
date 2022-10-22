@@ -51,7 +51,7 @@ class CreateEventFormState extends State<CreateEventForm> {
   String dropdownValue = '43BDpq9x2PRjtrjULWCw';
 
   Future _getEventTypes(){
-    return EventTypesService().getEventTypes();
+    return EventTypeService().getEventTypes();
   }
 
   @override
