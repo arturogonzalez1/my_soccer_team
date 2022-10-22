@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535433834256",
+    "project_id": "my-soccer-team-8d88a",
+    "storage_bucket": "my-soccer-team-8d88a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535433834256:android:8a164c88f81096d79cff95",
+        "android_client_info": {
+          "package_name": "com.arturogonzalez.my_soccer_team"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535433834256-8imekfkvo28u13h299g0iibsmci4vqik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjDP0nx1spCVxuIioq01VY3xfV4IQ-PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535433834256-8imekfkvo28u13h299g0iibsmci4vqik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
